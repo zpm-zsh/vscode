@@ -1,0 +1,2 @@
+# vscode
+zsh vscode helper
